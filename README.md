@@ -41,6 +41,11 @@ Even though most of my projects now use C#, sometimes it is just the best decisi
 
 Nearly every application needs databases. Multiple of my applications use SQLite as their database system. With C# I almost always use Dapper ORM with my object mapping.  
 
+<img src="https://github.com/user-attachments/assets/e20ade74-437f-49c9-aa22-6472866b1986" height="50" alt="c sharp logo" />
+
+<img src="https://github.com/user-attachments/assets/bad9c304-39bb-4b0f-92f5-bd309b377303" height="50" >
+
+
 <br/>
 
 ## Here are couple of my projects picks 🔭
