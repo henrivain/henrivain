@@ -13,7 +13,7 @@ I thrive to improve myself every day and try to find the best recorces to learn 
 I am currently studying computer science at the University of Tampere. University will certainly give me even broader perspective on computer science. I have also chosen to study mathematics as my minor, because a lot of the programming topics are based on mathematical concepts. 
 
 ## Technologies I like to use
-`.NET` `C#` `ASP.NET Core` `.NET MAUI` `WPF` `XAML` `SQLite` `VsCode` `VS`
+`.NET` `C#` `ASP.NET Core` `.NET MAUI` `WPF` `XAML` `SQLite` `Python` `VsCode` `VS`
 
 ### .NET And C#
 
@@ -40,6 +40,20 @@ Even though most of my projects now use C#, sometimes it is just the best decisi
 Nearly every application needs databases. Multiple of my applications use SQLite as their database system. With C# I almost always use Dapper ORM with my object mapping.  
 
 ## Here are couple of my projects
+
+### Tesseract Ocr Maui
+
+`.NET MAUI` `Multiplatform` `P/Invoke` `Library` `Nuget`
+
+[TesseractOcrMaui](https://github.com/henrivain/TesseractOcrMaui) is .NET wrapper around [Tesseract](https://github.com/tesseract-ocr/tesseract) optical character recognition library. TesseractOcrMaui is available as a Nuget package on [nuget.org](https://www.nuget.org/packages/TesseractOcrMaui/) and targets .NET MAUI Windows, Android and iOS. Native library interoperability is accomplish using P/Invoke.
+
+### Latex2Compute
+
+`.NET` `Class Library` `.NET Core` `.NET Framework` `WPF` `XAML` `C#` ``
+
+[Latex2Compute](https://github.com/henrivain/Latex2Compute) is part of my first project [Matikkaeditorinkääntäjä](https://github.com/henrivain/Matikkaeditorinkaantaja). The project was originally built in .NET framework 4.8 but then upgraded to .NET Core 5 onwards.  
+
+
 
 Coming soon...
 
