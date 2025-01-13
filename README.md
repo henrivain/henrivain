@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Henri Vainio, self taught programmer now studying computer science in Tampere University Finland. 
+I am Henri Vainio, self taught programmer now studying computer science in Tampere University Finland. I like to develop backend stuff especially with C#. 
 
 ## A Little Background
 
@@ -39,7 +39,13 @@ Even though most of my projects now use C#, sometimes it is just the best decisi
 
 Nearly every application needs databases. Multiple of my applications use SQLite as their database system. With C# I almost always use Dapper ORM with my object mapping.  
 
-## Here are couple of my projects
+## Here are couple of my projects picks 🔭
+
+### Lärpäke
+
+`APS.NET Core` `REST` `API` `Controllers` `SQLite` `Dapper ORM` `JWT` `Web`
+
+[Lärpäke](https://github.com/henrivain/Larpake) is project for my subject association Luuppi. Lärpäke is next generation electronical freshman attendance card (Fuksipassi). It tracks who attends the most subject association events during their freshman year. Lärpäke will be implemented as REST api (written by me) + web UI application using ASP.NET Core 9 API with controller architechture. The REST api uses SQLite with Dapper as its database system and Json Web Tokens (JWT) for authentication.
 
 ### Tesseract Ocr Maui
 
@@ -47,27 +53,16 @@ Nearly every application needs databases. Multiple of my applications use SQLite
 
 [TesseractOcrMaui](https://github.com/henrivain/TesseractOcrMaui) is .NET wrapper around [Tesseract](https://github.com/tesseract-ocr/tesseract) optical character recognition library. TesseractOcrMaui is available as a Nuget package on [nuget.org](https://www.nuget.org/packages/TesseractOcrMaui/) and targets .NET MAUI Windows, Android and iOS. Native library interoperability is accomplish using P/Invoke.
 
-### Latex2Compute
+### Matikkaeditorinkääntäjä & Latex2Compute
 
-`.NET` `Class Library` `.NET Core` `.NET Framework` `WPF` `XAML` `C#` ``
+`.NET` `Class Library` `.NET Framework` `.NET Core` `WPF` `XAML` `C#` `XUnit`
 
-[Latex2Compute](https://github.com/henrivain/Latex2Compute) is part of my first project [Matikkaeditorinkääntäjä](https://github.com/henrivain/Matikkaeditorinkaantaja). The project was originally built in .NET framework 4.8 but then upgraded to .NET Core 5 onwards.  
+[Matikkaeditorinkääntäjä](https://github.com/henrivain/Matikkaeditorinkaantaja) is my first project ever. The project was originally built in .NET framework 4.8 but then upgraded to .NET Core 5 onwards. Matikkaeditorinkääntäjä is a WPF application that converts mathematical Latex code to calculator readable form using my [Latex2Compute](https://github.com/henrivain/Latex2Compute) class libary. Latex2Compute is unit tested using XUnit testing library. 
 
+## Want to get in touch? 📫
 
+If you have any problems or feature requests with my code, don't hesitate to open a Github Issue or contact me on  
+matikkaeditorinkaantaja(at)gmail.com
 
-Coming soon...
-
-<!--
-**henrivain/henrivain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+or with anything more personal / work related on  
+henri.m.vainio(at)gmail.com
