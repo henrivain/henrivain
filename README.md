@@ -55,7 +55,7 @@ Nearly every application needs databases. Multiple of my applications use SQLite
 
 ### Tesseract Ocr Maui
 
-<img src="https://github.com/user-attachments/assets/126f9ad1-73c5-40ca-bf9a-9f1dd9266008" align="right" height="150" >
+<img src="https://github.com/user-attachments/assets/126f9ad1-73c5-40ca-bf9a-9f1dd9266008" align="right" width="300" >
 
 
 
@@ -65,7 +65,7 @@ Nearly every application needs databases. Multiple of my applications use SQLite
 
 ### Matikkaeditorinkääntäjä & Latex2Compute
 
-<img src="https://github.com/user-attachments/assets/2e31ca91-b278-4c84-b6aa-09e62106906d" height="150" align="right"> 
+<img src="https://github.com/user-attachments/assets/2e31ca91-b278-4c84-b6aa-09e62106906d" width="300" align="right"> 
 
 `.NET` `Class Library` `.NET Framework` `.NET Core` `WPF` `XAML` `C#` `XUnit`
 
