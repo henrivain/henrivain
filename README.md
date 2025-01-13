@@ -41,9 +41,13 @@ Even though most of my projects now use C#, sometimes it is just the best decisi
 
 Nearly every application needs databases. Multiple of my applications use SQLite as their database system. With C# I almost always use Dapper ORM with my object mapping.  
 
+<br/>
+
 ## Here are couple of my projects picks 🔭
 
 ### Lärpäke
+
+<img src="https://luuppi.fi/icon2.png?fe2c72f8b364e17f" width="100" align="right"  >
 
 `APS.NET Core` `REST` `API` `Controllers` `SQLite` `Dapper ORM` `JWT` `Web`
 
@@ -51,15 +55,23 @@ Nearly every application needs databases. Multiple of my applications use SQLite
 
 ### Tesseract Ocr Maui
 
+<img src="https://github.com/user-attachments/assets/126f9ad1-73c5-40ca-bf9a-9f1dd9266008" align="right" height="150" >
+
+
+
 `.NET MAUI` `Multiplatform` `P/Invoke` `Library` `Nuget`
 
 [TesseractOcrMaui](https://github.com/henrivain/TesseractOcrMaui) is .NET wrapper around [Tesseract](https://github.com/tesseract-ocr/tesseract) optical character recognition library. TesseractOcrMaui is available as a Nuget package on [nuget.org](https://www.nuget.org/packages/TesseractOcrMaui/) and targets .NET MAUI Windows, Android and iOS. Native library interoperability is accomplish using P/Invoke.
 
 ### Matikkaeditorinkääntäjä & Latex2Compute
 
+<img src="https://github.com/user-attachments/assets/2e31ca91-b278-4c84-b6aa-09e62106906d" height="150" align="right"> 
+
 `.NET` `Class Library` `.NET Framework` `.NET Core` `WPF` `XAML` `C#` `XUnit`
 
 [Matikkaeditorinkääntäjä](https://github.com/henrivain/Matikkaeditorinkaantaja) is my first project ever. The project was originally built in .NET framework 4.8 but then upgraded to .NET Core 5 onwards. Matikkaeditorinkääntäjä is a WPF application that converts mathematical Latex code to calculator readable form using my [Latex2Compute](https://github.com/henrivain/Latex2Compute) class libary. Latex2Compute is unit tested using XUnit testing library. 
+
+<br/>
 
 ## Want to get in touch? 📫
 
