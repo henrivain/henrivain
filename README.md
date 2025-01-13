@@ -1,6 +1,8 @@
 # Hi there 👋
 
-I am Henri Vainio, self taught programmer now studying computer science in Tampere University Finland. I like to develop backend stuff especially with C#. 
+I am Henri Vainio, self taught programmer now studying computer science in Tampere University Finland. 
+
+I like to develop backend code especially with C#. 
 
 ## A Little Background
 
