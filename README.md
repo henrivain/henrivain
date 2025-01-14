@@ -53,7 +53,7 @@ Nearly every application needs databases. Multiple of my applications use SQLite
 
 <br/>
 
-## Here are couple of my projects picks 🔭
+## Here are couple of my projects 🔭
 
 ### Lärpäke
 
