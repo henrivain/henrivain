@@ -4,6 +4,8 @@ I am Henri Vainio, self taught programmer now studying computer science in [Tamp
 
 I like to develop backend code especially with C#. 
 
+I am WWW/IT official at @luuppiry 👀
+
 ## A Little Background
 
 I started my programming career back in 2021. I wanted to ease my upper secondary school math studies by automating moving data between my Latex math editor and calculator. Back then I didn't have any experience in coding which meant I had to learn everything while writing the [app](https://github.com/henrivain/Matikkaeditorinkaantaja). This project with many others has thaught me a lot about software development. 
