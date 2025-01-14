@@ -4,7 +4,7 @@ I am Henri Vainio, self taught programmer now studying computer science in [Tamp
 
 I like to develop backend code especially with C#. 
 
-I am WWW/IT official at @luuppiry 👀
+Also a WWW/IT official at university subject association @luuppiry  👀
 
 ## A Little Background
 
