@@ -17,7 +17,7 @@ I thrive to improve myself every day and try to find the best recorces to learn 
 I am currently studying computer science at the University of Tampere. University will certainly give me even broader perspective on computer science. I have also chosen to study mathematics as my minor, because a lot of the programming topics are based on mathematical concepts. 
 
 ## Technologies I like to use
-`.NET` `C#` `ASP.NET Core` `.NET MAUI` `WPF` `XAML` `SQLite` `Python` `VsCode` `VS`
+`.NET` `C#` `ASP.NET Core` `.NET MAUI` `WPF` `XAML` `SQLite` `Python` `VsCode` `VS` `PostgreSQL`
 
 ### .NET And C#
 
