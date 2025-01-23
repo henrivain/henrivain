@@ -65,7 +65,7 @@ Nearly every application needs databases. Multiple of my applications use SQLite
 
 `APS.NET Core` `REST` `API` `Controllers` `SQLite` `Dapper ORM` `JWT` `Web`
 
-[Lärpäke](https://github.com/henrivain/Larpake) is project for my subject association Luuppi. Lärpäke is next generation electronical freshman attendance card (Fuksipassi). It tracks who attends the most subject association events during their freshman year. Lärpäke will be implemented as REST api (written by me) + web UI application using ASP.NET Core 9 API with controller architechture. The REST api uses SQLite with Dapper as its database system and Json Web Tokens (JWT) for authentication.
+[Lärpäke](https://github.com/henrivain/Larpake) is project for my subject association Luuppi. Lärpäke is next generation electronical freshman attendance card (Fuksipassi). It tracks who attends the most subject association events during their freshman year. Lärpäke will be implemented as REST api (written by me) + web UI application using ASP.NET Core 9 API with controller architechture. The REST api uses PostgreSQL with Dapper as its database system and Json Web Tokens (JWT) for authentication.
 
 <img src="https://github.com/user-attachments/assets/126f9ad1-73c5-40ca-bf9a-9f1dd9266008" align="right" width="300" >
 
