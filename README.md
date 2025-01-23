@@ -39,9 +39,11 @@ APS.NET Core is a web framework that enables .NET developers to develop powerful
 
 Even though most of my projects now use C#, sometimes it is just the best decision to go with something little more flexible and light. I started my programming career with Python and still use it when I don't need the same robustness of C#'s strong typing.  
 
-### SQLite 
+### SQL
 
-Nearly every application needs databases. Multiple of my applications use SQLite as their database system. With C# I almost always use Dapper ORM with my object mapping.  
+`SQLite` `PostgreSQL`
+
+Nearly every application needs databases. Multiple of my applications use SQLite as their database system. In latest project, [Lärpäke](https://github.com/henrivain/Larpake), I use Postgres as my database layer. With C# I almost always use Dapper ORM with my object mapping.  
 
 <img src="https://github.com/user-attachments/assets/a5a7ac14-571e-4e10-9f9f-8f7fc8b2fd66" height="50" alt="dotnet logo">
 
@@ -50,6 +52,8 @@ Nearly every application needs databases. Multiple of my applications use SQLite
 <img src="https://github.com/user-attachments/assets/bad9c304-39bb-4b0f-92f5-bd309b377303" height="50" alt="sqlite logo">
 
 <img src="https://github.com/user-attachments/assets/3eadd7e8-3447-4ec4-b8d7-75fbccc6529e" height="50" alt="python logo">
+
+<img src="https://github.com/user-attachments/assets/a4754dc8-f85f-4baf-bceb-211c2c92344f" height="50" alt="postgres logo">
 
 <br/>
 
