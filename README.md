@@ -12,7 +12,7 @@ I started my programming career back in 2021. I wanted to ease my upper secondar
 
 Alhough coding was very hard at first, it grew to a nearly daily habit for me. I started my programming career with python but quickly switched to C#. I found C#'s strongly typing very powerful and haven't switched away from C# after that. 
 
-I thrive to improve myself every day and try to find the best recorces to learn the best practises. Trial and error has been a big part of my learning curve. Sometimes different coding styles seem great at first, but after trying them you see the pros and cons clearer. I think it's sometimes better to learn the hard way than someone just telling the right answer. 
+I strive to improve myself every day and try to find the best recorces to learn the best practises. Trial and error has been a big part of my learning curve. Sometimes different coding styles seem great at first, but after trying them you see the pros and cons clearer. I think it's sometimes better to learn the hard way than someone just telling the right answer. 
 
 I am currently studying computer science at the University of Tampere. University will certainly give me even broader perspective on computer science. I have also chosen to study mathematics as my minor, because a lot of the programming topics are based on mathematical concepts. 
 
