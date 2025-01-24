@@ -73,7 +73,7 @@ Nearly every application needs databases. Multiple of my applications use SQLite
 
 `.NET MAUI` `Multiplatform` `P/Invoke` `Library` `Nuget`
 
-[TesseractOcrMaui](https://github.com/henrivain/TesseractOcrMaui) is .NET wrapper around [Tesseract](https://github.com/tesseract-ocr/tesseract) optical character recognition library. TesseractOcrMaui is available as a Nuget package on [nuget.org](https://www.nuget.org/packages/TesseractOcrMaui/) and targets .NET MAUI Windows, Android and iOS. Native library interoperability is accomplish using P/Invoke.
+[TesseractOcrMaui](https://github.com/henrivain/TesseractOcrMaui) is .NET wrapper around [Tesseract](https://github.com/tesseract-ocr/tesseract) optical character recognition library. TesseractOcrMaui is available as a Nuget package on [nuget.org](https://www.nuget.org/packages/TesseractOcrMaui/) and targets .NET MAUI Windows, Android and iOS. Native library interoperability is accomplished using P/Invoke.
 
 ### Matikkaeditorinkääntäjä & Latex2Compute
 
