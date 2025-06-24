@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I am Henri Vainio, self taught programmer now studying computer science in [Tampere University Finland](https://www.tuni.fi/en). 
+I am Henri Vainio, self taught programmer who studies computer science in [Tampere University Finland](https://www.tuni.fi/en). 
 
 I like to develop backend code especially with C#. 
 
-Also a WWW/IT official at university subject association @luuppiry  👀
+Currently working at Cadmatic Oy as a software engineer trainee. 
 
 ## A Little Background
 
