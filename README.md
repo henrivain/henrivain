@@ -4,7 +4,7 @@ I am Henri Vainio, self taught programmer who studies computer science in [Tampe
 
 I like to develop backend code especially with C#. 
 
-Currently working at Cadmatic Oy as a software engineer trainee. 
+Currently working at [Cadmatic Oy](https://www.cadmatic.com/fi/) as a software engineer trainee. 
 
 ## A Little Background
 
