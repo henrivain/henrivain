@@ -8,7 +8,7 @@ Currently working at [Cadmatic Oy](https://www.cadmatic.com/fi/) as a software e
 
 ## A Little Background
 
-I started my programming career back in 2021. I wanted to ease my upper secondary school math studies by automating moving data between my Latex math editor and calculator. Back then I didn't have any experience in coding which meant I had to learn everything while writing the [app](https://github.com/henrivain/Matikkaeditorinkaantaja). This project with many others has thaught me a lot about software development. 
+I started my programming career back in 2021. I wanted to ease my upper secondary school math studies by automating moving data between my Latex math editor and calculator. Back then I didn't have any experience in coding which meant I had to learn everything while writing the [app](https://github.com/henrivain/Matikkaeditorinkaantaja). This project with many others has taught me a lot about software development. 
 
 Alhough coding was very hard at first, it grew to a nearly daily habit for me. I started my programming career with python but quickly switched to C#. I found C#'s strongly typing very powerful and haven't switched away from C# after that. 
 
